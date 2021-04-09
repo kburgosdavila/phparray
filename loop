@@ -1,0 +1,10 @@
+<?php 
+
+$names = array ('Kali', 'Brian', 'Cal');
+echo $names ['Kali'] . 'plays with legos']
+echo $names ['Cal is a Halo nerd']
+echo $names ['Brian plays video games all day']
+
+
+?>
+
