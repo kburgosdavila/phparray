@@ -1,6 +1,9 @@
 <?php 
 
 $names = array ('Kali', 'Brian', 'Cal');
+foreach ($names as $value) {
+  echo "$value <br>"; }
+
 echo $names ['Kali'] . 'plays with legos']
 echo $names ['Cal is a Halo nerd']
 echo $names ['Brian plays video games all day']
